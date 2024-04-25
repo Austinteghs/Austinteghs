@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osayame Eghosa
-- 👀 I’m a data analyst transitioning to become a Data scientist
-- 🌱 I’m proficient in SQL(Intermediate) and PYTHON(Beginner)
+- 👀 I’m a Data scientist
+- 🌱 I’m proficient in Python, SQL, TABLEAU & R
 - 📫 How to reach me @ Eghosa.Osayame@yahoo.com and @ +2348112415506
 
 <!---
