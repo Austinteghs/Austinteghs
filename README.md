@@ -1,23 +1,59 @@
-👋 Hi, I'm Osayame Eghosa
-💡 Data Analyst | Aspiring Data Engineer | Tech Enthusiast
-📊 Passionate about transforming data into insights and building scalable data solutions.
+# 👋 Hi, I'm Osayame Eghosa
 
-🚀 Skills & Expertise
-🔹 Data Analytics: Python, SQL, Excel, Tableau, Power BI, Microsoft Fabric
-🔹 Data Science & ML: Scikit-learn, Pandas, NumPy
-🔹 Data Engineering: ETL, PostgreSQL, Flask (beginner)
+### Data Engineer | Cloud & Data Enthusiast
 
-🌱 Currently Exploring
-Data Engineering: ETL pipelines, cloud computing
-Microsoft Fabric: Unified analytics and data engineering
-DevOps: Expanding my technical expertise
-Machine Learning Projects
-📫 Get in Touch
-📧 Email: Eghosa.Osayame@yahoo.com
-📱 Phone: +2349122622586
+I'm a Data Engineer passionate about building reliable, scalable data solutions and working with cloud technologies. I enjoy transforming raw data into useful systems, from data pipelines and databases to analytics and cloud infrastructure.
 
-🚀 Let's connect and build amazing things with data!
-<!---
-Austinteghs/Austinteghs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Skills & Technologies
+
+### 🔹 Data Engineering
+
+* Python
+* SQL
+* ETL/ELT Pipelines
+* PostgreSQL
+* MySQL
+* SQL Server
+* Data Modelling
+* Microsoft Fabric
+
+### ☁️ Cloud & Infrastructure
+
+* Microsoft Azure
+* AWS
+* Azure Administration
+* DevOps Concepts
+
+### 📊 Data & Analytics
+
+* Power BI
+* Tableau
+* Excel
+* Pandas
+* NumPy
+
+### 🛠️ Tools
+
+* Git & GitHub
+* Docker
+* Flask
+* Jupyter Notebook
+
+## 🏆 Certifications
+
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
+
+## 🌱 Currently Exploring
+
+* Advanced Data Engineering
+* Databricks
+* dbt
+* Cloud Data Platforms
+* DevOps & Infrastructure
+* Building scalable data pipelines
+
+## 📫 Get in Touch
+
+📧 **Email:** [Eghosa.Osayame@yahoo.com](mailto:Eghosa.Osayame@yahoo.com)
+
+🚀 Always learning, building, and exploring better ways to work with data and cloud technologies.
